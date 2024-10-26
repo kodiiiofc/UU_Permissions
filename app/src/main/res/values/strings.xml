@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Открытый доступ</string>
+    <string name="menu_exit">Выход</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="camera_btn">Получить доступ к камере</string>
+    <string name="contacts_btn">Получить доступ к контактам</string>
+    <string name="contact_name_tv">Имя контакта</string>
+    <string name="contact_phone_tv">+7 999 888 77 66</string>
+</resources>
